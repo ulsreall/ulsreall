@@ -1,0 +1,165 @@
+<![CDATA[<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=220&section=header&text=Maulana&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Builder%20|%20AI%20Agent%20Architect%20|%20Security%20Researcher&descSize=17&descAlignY=55&descAlign=50" width="100%" />
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8C%B4+Building+multi-agent+systems+%26+onchain+tools;Mancing+DAO+%7C+Web3+%7C+AI+%7C+Security)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/ulsreall/ulsreall/output/github-snake-dark.svg" alt="Snake animation" />
+
+<br/>
+
+<!-- Profile Views & GitHub Followers -->
+<img src="https://komarev.com/ghpvc/?username=ulsreall&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/ulsreall?tab=followers">
+  <img src="https://img.shields.io/github/followers/ulsreall?style=for-the-badge&color=6C63FF&label=FOLLOWERS" alt="Followers" />
+</a>
+
+</div>
+
+---
+
+## 🧬 About Me
+
+```yaml
+name: Maulana
+location: Singapore 🇸🇬
+role: Web3 Builder · AI Agent Architect · Security Researcher
+organization: Mancing DAO
+currently_building:
+  - Multi-agent AI platforms (SPECTRE, AXIOM, SYNAPSE, PRISM, KRAKEN)
+  - Smart contract security tools
+  - Onchain DApps & DeFi protocols
+tech_stack:
+  languages: [Python, TypeScript, Rust, Go, Solidity, CUDA]
+  web3: [EVM, Solana, Base, Celo, Farcaster]
+  ai: [Multi-Agent Systems, LLM Pipelines, MiMo]
+  devops: [Docker, VPS, CI/CD]
+motto: "Build fast, ship faster 🚀"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=ulsreall&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulsreall&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="40%" />
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulsreall&theme=tokyonight&background=0d1117&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" />
+
+<br/><br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=ulsreall&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="80%" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulsreall&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/ulsreall/spectre">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=spectre&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+      </a>
+      <br/><b>SPECTRE</b> — Multi-Agent Platform
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ulsreall/chainsentinel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=chainsentinel&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+      </a>
+      <br/><b>ChainSentinel</b> — Smart Contract Security
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ulsreall/synapse">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=synapse&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+      </a>
+      <br/><b>SYNAPSE</b> — Code Analysis Platform
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/ulsreall/qie-pay">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=qie-pay&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+      </a>
+      <br/><b>QIE Pay</b> — Crypto Payment Gateway
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ulsreall/kindjar-celo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=kindjar-celo&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+      </a>
+      <br/><b>KindJar</b> — Celo Donation DApp
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ulsreall/base-streak-arena">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=base-streak-arena&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+      </a>
+      <br/><b>Streak Arena</b> — Farcaster Mini App
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itseywacc)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ulsreall)
+[![Website](https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khasbim.web.id)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=120&section=footer" width="100%" />
+
+</div>
+]]>

@@ -1,19 +1,15 @@
-<![CDATA[<div align="center">
+<div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=220&section=header&text=Maulana&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Builder%20|%20AI%20Agent%20Architect%20|%20Security%20Researcher&descSize=17&descAlignY=55&descAlign=50" width="100%" />
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8C%B4+Building+multi-agent+systems+%26+onchain+tools;Mancing+DAO+%7C+Web3+%7C+AI+%7C+Security)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/ulsreall/ulsreall/output/github-snake-dark.svg" alt="Snake animation" />
 
 <br/>
 
-<!-- Profile Views & GitHub Followers -->
 <img src="https://komarev.com/ghpvc/?username=ulsreall&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
 <a href="https://github.com/ulsreall?tab=followers">
   <img src="https://img.shields.io/github/followers/ulsreall?style=for-the-badge&color=6C63FF&label=FOLLOWERS" alt="Followers" />
@@ -68,25 +64,20 @@ motto: "Build fast, ship faster 🚀"
 
 <div align="center">
 
-<!-- Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=ulsreall&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" width="48%" />
 
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulsreall&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="40%" />
 
 <br/><br/>
 
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulsreall&theme=tokyonight&background=0d1117&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" />
 
 <br/><br/>
 
-<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=ulsreall&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="80%" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulsreall&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%" />
 
 </div>
@@ -97,48 +88,12 @@ motto: "Build fast, ship faster 🚀"
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/ulsreall/spectre">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=spectre&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-      </a>
-      <br/><b>SPECTRE</b> — Multi-Agent Platform
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ulsreall/chainsentinel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=chainsentinel&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-      </a>
-      <br/><b>ChainSentinel</b> — Smart Contract Security
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ulsreall/synapse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=synapse&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-      </a>
-      <br/><b>SYNAPSE</b> — Code Analysis Platform
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/ulsreall/qie-pay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=qie-pay&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-      </a>
-      <br/><b>QIE Pay</b> — Crypto Payment Gateway
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ulsreall/kindjar-celo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=kindjar-celo&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-      </a>
-      <br/><b>KindJar</b> — Celo Donation DApp
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ulsreall/base-streak-arena">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulsreall&repo=base-streak-arena&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-      </a>
-      <br/><b>Streak Arena</b> — Farcaster Mini App
-    </td>
-  </tr>
-</table>
+| | | |
+|:---:|:---:|:---:|
+| [**SPECTRE**](https://github.com/ulsreall/spectre) | [**ChainSentinel**](https://github.com/ulsreall/chainsentinel) | [**SYNAPSE**](https://github.com/ulsreall/synapse) |
+| Multi-Agent Platform | Smart Contract Security | Code Analysis Platform |
+| [**QIE Pay**](https://github.com/ulsreall/qie-pay) | [**KindJar**](https://github.com/ulsreall/kindjar-celo) | [**Streak Arena**](https://github.com/ulsreall/base-streak-arena) |
+| Crypto Payment Gateway | Celo Donation DApp | Farcaster Mini App |
 
 </div>
 
@@ -158,8 +113,6 @@ motto: "Build fast, ship faster 🚀"
 
 <div align="center">
 
-<!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=120&section=footer" width="100%" />
 
 </div>
-]]>

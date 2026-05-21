@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=220&section=header&text=Maulana&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Builder%20|%20AI%20Agent%20Architect%20|%20Security%20Researcher&descSize=17&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=220&section=header&text=Maulana&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Builder%20%7C%20AI%20Agent%20Architect%20%7C%20Security%20Researcher&descSize=17&descAlignY=55&descAlign=50" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8C%B4+Building+multi-agent+systems+%26+onchain+tools;Mancing+DAO+%7C+Web3+%7C+AI+%7C+Security)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ulsreall/ulsreall/output/github-snake-dark.svg" alt="Snake animation" />
-
-<br/>
-
+<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=ulsreall&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
 <a href="https://github.com/ulsreall?tab=followers">
   <img src="https://img.shields.io/github/followers/ulsreall?style=for-the-badge&color=6C63FF&label=FOLLOWERS" alt="Followers" />
+</a>
+<a href="https://github.com/ulsreall?tab=repositories">
+  <img src="https://img.shields.io/github/repos/ulsreall?style=for-the-badge&color=6C63FF&label=REPOS" alt="Repos" />
 </a>
 
 </div>
@@ -21,22 +21,19 @@
 
 ## 🧬 About Me
 
-```yaml
-name: Maulana
-location: Singapore 🇸🇬
-role: Web3 Builder · AI Agent Architect · Security Researcher
-organization: Mancing DAO
-currently_building:
-  - Multi-agent AI platforms (SPECTRE, AXIOM, SYNAPSE, PRISM, KRAKEN)
-  - Smart contract security tools
-  - Onchain DApps & DeFi protocols
-tech_stack:
-  languages: [Python, TypeScript, Rust, Go, Solidity, CUDA]
-  web3: [EVM, Solana, Base, Celo, Farcaster]
-  ai: [Multi-Agent Systems, LLM Pipelines, MiMo]
-  devops: [Docker, VPS, CI/CD]
-motto: "Build fast, ship faster 🚀"
+<div align="center">
+
 ```
+🎯 Role      : Web3 Builder · AI Agent Architect · Security Researcher
+📍 Location  : Singapore 🇸🇬
+🏢 Org       : Mancing DAO
+🛠️ Building  : Multi-agent AI platforms & Onchain DApps
+💡 Languages : Python, TypeScript, Rust, Go, Solidity, CUDA
+🔗 Web3      : EVM, Solana, Base, Celo, Farcaster
+🚀 Motto     : "Build fast, ship faster"
+```
+
+</div>
 
 ---
 
@@ -64,21 +61,31 @@ motto: "Build fast, ship faster 🚀"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulsreall&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" width="48%" />
+<!-- Stats Card -->
+<img src="https://github-readme-stats-one-mu.vercel.app/api?username=ulsreall&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulsreall&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="40%" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats-one-mu.vercel.app/api/top-langs/?username=ulsreall&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="40%" />
 
 <br/><br/>
 
+<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulsreall&theme=tokyonight&background=0d1117&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" />
 
 <br/><br/>
 
+<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=ulsreall&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="80%" />
 
 <br/><br/>
 
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulsreall&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%" />
+
+<br/><br/>
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulsreall&theme=tokyonight&bg_color=0d1117" width="80%" />
 
 </div>
 
@@ -91,9 +98,9 @@ motto: "Build fast, ship faster 🚀"
 | | | |
 |:---:|:---:|:---:|
 | [**SPECTRE**](https://github.com/ulsreall/spectre) | [**ChainSentinel**](https://github.com/ulsreall/chainsentinel) | [**SYNAPSE**](https://github.com/ulsreall/synapse) |
-| Multi-Agent Platform | Smart Contract Security | Code Analysis Platform |
+| Multi-Agent Platform for MiMo 100T | AI-Powered Smart Contract Security | 10-Agent Code Analysis Platform |
 | [**QIE Pay**](https://github.com/ulsreall/qie-pay) | [**KindJar**](https://github.com/ulsreall/kindjar-celo) | [**Streak Arena**](https://github.com/ulsreall/base-streak-arena) |
-| Crypto Payment Gateway | Celo Donation DApp | Farcaster Mini App |
+| QIE Blockchain Payment Gateway ⭐ | Celo Stablecoin Donation DApp ⭐ | Farcaster Daily Streak App ⭐ |
 
 </div>
 

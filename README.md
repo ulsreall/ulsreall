@@ -6,7 +6,7 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=ulsreall&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -58,8 +58,8 @@
 <!-- Stats Card -->
 <img src="https://github-readme-stats-one-mu.vercel.app/api?username=ulsreall&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" width="48%" />
 
-<!-- Top Languages -->
-<img src="https://github-stats-card.vercel.app/api/top-langs?username=ulsreall&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="40%" />
+<!-- Repos Per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulsreall&theme=tokyonight&bg_color=0d1117" width="40%" />
 
 <br/><br/>
 

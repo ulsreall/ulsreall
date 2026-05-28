@@ -91,7 +91,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| [**SPECTRE**](https://github.com/ulsreall/spectre) | [**ChainSentinel**](https://github.com/ulsreall/chainsentinel) | [**SYNAPSE**](https://github.com/ulsreall/synapse) |
+| [**BASEHIVE**](https://github.com/ulsreall/basehive) | [**MiniMate**](https://github.com/ulsreall/minimate) | [**QIE Lens**](https://github.com/ulsreall/qie-lens) |
 | Multi-Agent Platform for MiMo 100T | AI-Powered Smart Contract Security | 10-Agent Code Analysis Platform |
 | [**QIE Pay**](https://github.com/ulsreall/qie-pay) | [**KindJar**](https://github.com/ulsreall/kindjar-celo) | [**Streak Arena**](https://github.com/ulsreall/base-streak-arena) |
 | QIE Blockchain Payment Gateway ⭐ | Celo Stablecoin Donation DApp ⭐ | Farcaster Daily Streak App ⭐ |

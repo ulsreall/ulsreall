@@ -94,9 +94,9 @@
 | [**BASEHIVE**](https://github.com/ulsreall/basehive) | [**QIE Pay**](https://github.com/ulsreall/qie-pay) | [**MiniMate**](https://github.com/ulsreall/minimate) |
 | The App Store for AI Agents on Base L2 | Decentralized Payment Gateway on QIE Blockchain | AI Finance Assistant on Celo for MiniPay ⭐ |
 | [🌐 basehive.ai](https://basehive.ai) | [🌐 qie-pay.vercel.app](https://qie-pay.vercel.app) | [🌐 minimate-green.vercel.app](https://minimate-green.vercel.app) |
-| [**QIE Lens**](https://github.com/ulsreall/qie-lens) | [**Mantle Agent**](https://github.com/ulsreall/mantle-agent-wallet) | [**KindJar**](https://github.com/ulsreall/kindjar-celo) |
-| Real-time QIE Blockchain Explorer & Analytics | Autonomous AI Agent Wallet on Mantle Network | Celo Stablecoin Micro-Donation DApp |
-| [🌐 qie-lens.vercel.app](https://qie-lens.vercel.app) | [🌐 mantle-agent.vercel.app](https://mantle-agent.vercel.app) | [🌐 celo-impact-jar.vercel.app](https://celo-impact-jar.vercel.app) |
+| [**QIE Lens**](https://github.com/ulsreall/qie-lens) | [**Mantle Agent**](https://github.com/ulsreall/mantle-agent-wallet) | [**ChainSentinel**](https://github.com/ulsreall/chainsentinel) |
+| Real-time QIE Blockchain Explorer & Analytics | Autonomous AI Agent Wallet on Mantle Network | AI-Powered Smart Contract Security Platform |
+| [🌐 qie-lens.vercel.app](https://qie-lens.vercel.app) | [🌐 mantle-agent.vercel.app](https://mantle-agent.vercel.app) | Multi-agent analysis via MiMo AI |
 
 </div>
 

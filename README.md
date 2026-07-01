@@ -1,18 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=200&section=header&text=Khasbi%20Maulana&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Web3%20Builder&descSize=16&descAlignY=55&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=160&section=header&text=Khasbi%20Maulana&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Web3%20Builder&descSize=15&descAlignY=55&descAlign=50" width="100%">
 
 </div>
-
-<br>
-
-<div align="center">
-
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&height=50&lines=Building+Web3+%7C+AI+%7C+Security+Tools;Open+Source+%7C+DeFi+%7C+Onchain)](https://git.io/typing-svg)
-
-</div>
-
-<br>
 
 ---
 
@@ -22,36 +12,32 @@
 name: Khasbi Maulana
 role: Full-Stack Developer & Web3 Builder
 org: Mancing DAO
-published: web3-agent-kit on PyPI
-stats: 986 tests · 25+ modules · 7+ chains
-stack: Python, TypeScript, Rust, Go, Solidity
-web3: EVM, Solana, Base, Celo, Farcaster
-security: Smart Contract Auditing · Bug Bounty · DeFi Security
+project: web3-agent-kit — Python SDK on PyPI
+tests: 986 · modules: 25 · chains: 7+
+stack: Python · TypeScript · Rust · Go · Solidity
+web3: EVM · Solana · Base · Celo · Farcaster
+security: Smart Contract Auditing · Bug Bounty · DeFi
 status: Open to opportunities
 ```
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 <div align="center">
 
 <a href="https://github.com/ulsreall/web3-agent-kit">
-  <img src="https://github-readme-stats-one-mu.vercel.app/api/pin/?username=ulsreall&repo=web3-agent-kit&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+  <img height="120" src="https://github-readme-stats-one-mu.vercel.app/api/pin/?username=ulsreall&repo=web3-agent-kit&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/ulsreall/qie-pay">
-  <img src="https://github-readme-stats-one-mu.vercel.app/api/pin/?username=ulsreall&repo=qie-pay&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+  <img height="120" src="https://github-readme-stats-one-mu.vercel.app/api/pin/?username=ulsreall&repo=qie-pay&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/ulsreall/base-streak-arena">
-  <img src="https://github-readme-stats-one-mu.vercel.app/api/pin/?username=ulsreall&repo=base-streak-arena&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+  <img height="120" src="https://github-readme-stats-one-mu.vercel.app/api/pin/?username=ulsreall&repo=base-streak-arena&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/ulsreall/khasbim-portfolio">
-  <img src="https://github-readme-stats-one-mu.vercel.app/api/pin/?username=ulsreall&repo=khasbim-portfolio&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+<a href="https://ayshataguard.web.id">
+  <img height="120" src="https://github-readme-stats-one-mu.vercel.app/api/pin/?username=ulsreall&repo=khasbim-portfolio&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
-
-<br>
-
-[![Ayshata Guard](https://img.shields.io/badge/Ayshata_Guard-Wallet_Safety_Platform-10B981?style=for-the-badge&logo=shield&logoColor=white)](https://ayshataguard.web.id)
 
 </div>
 
@@ -81,7 +67,7 @@ status: Open to opportunities
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
 
@@ -90,12 +76,9 @@ status: Open to opportunities
 <img src="https://github-readme-stats-one-mu.vercel.app/api/top-langs/?username=ulsreall&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6C63FF&text_color=c9d1d9&langs_count=6" width="40%" />
 
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulsreall&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%" />
-
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ulsreall&style=flat-square&color=6C63FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulsreall&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%" />
 
 </div>
 
@@ -108,12 +91,16 @@ status: Open to opportunities
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ulsreall)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khasbimln@gmail.com)
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ulsreall&style=flat-square&color=6C63FF" />
+
 </div>
 
 <br>
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=80&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c63ff&height=80&section=footer" width="100%">
 
 </div>

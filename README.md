@@ -15,14 +15,14 @@
 ## 🧬 About Me
 
 ```
-🎯 Role      : Web3 Builder · AI Agent Architect · Security Researcher
+🎯 Role      : Full-Stack Developer · Web3 Builder · Security Researcher
 🏢 Org       : Mancing DAO
-🛠️ Building  : Autonomous Web3 AI agents & onchain DApps
-📦 Published : web3-agent-kit (PyPI) — multi-chain AI agent framework
+🛠️ Building  : Autonomous AI agents & onchain DApps
+📦 Published : web3-agent-kit (PyPI) — 986 tests, 25+ modules, 7+ chains
 💡 Languages : Python, TypeScript, Rust, Go, Solidity
 🔗 Web3      : EVM, Solana, Base, Celo, Farcaster
-🔍 Security  : Bug bounties — Cantina, Immunefi, Code4rena
-🚀 Motto     : "Build fast, ship faster"
+🔍 Security  : Smart Contract Auditing · Bug Bounty · DeFi Security
+🚀 Status    : Open to opportunities
 ```
 
 ---
@@ -38,6 +38,8 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -81,10 +83,10 @@
 
 | | | |
 |:---:|:---:|:---:|
-| [**WEB3-AGENT-KIT**](https://github.com/ulsreall/web3-agent-kit) | [**MINIMATE**](https://github.com/ulsreall/minimate) | [**QIE PAY**](https://github.com/ulsreall/qie-pay) |
-| 🐍 Autonomous Web3 AI Agent Framework ⭐ | 🤖 AI Finance Assistant on Celo for MiniPay | 💳 Decentralized Payment Gateway on QIE |
-| [**CHAINSENTINEL**](https://github.com/ulsreall/chainsentinel) | [**QIE LENS**](https://github.com/ulsreall/qie-lens) | [**MANTLE AGENT**](https://github.com/ulsreall/mantle-agent-wallet) |
-| 🔐 AI-Powered Smart Contract Security | 📊 Real-time QIE Blockchain Explorer | 🤖 Autonomous AI Agent Wallet on Mantle |
+| [**WEB3-AGENT-KIT**](https://github.com/ulsreall/web3-agent-kit) | [**QIE PAY**](https://github.com/ulsreall/qie-pay) | [**BASE STREAK ARENA**](https://github.com/ulsreall/base-streak-arena) |
+| 🐍 Autonomous Web3 AI Agent Framework ⭐ | 💳 Decentralized Payment Gateway on QIE | 🎮 Farcaster Mini App on Base |
+| [**AYSHATA GUARD**](https://ayshataguard.web.id) | [**PORTFOLIO**](https://www.khasbim.web.id) | [**COMING SOON**](#) |
+| 🛡️ Web3 Wallet Safety Platform | 🌐 Personal Portfolio Site | 🚧 New Project in Progress |
 
 </div>
 
@@ -96,7 +98,7 @@
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itseywacc)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ulsreall)
-[![Website](https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khasbim.web.id)
+[![Website](https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.khasbim.web.id)
 
 </div>
 

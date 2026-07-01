@@ -16,14 +16,15 @@
 
 ```python
 class KhasbiMaulana:
-    role        = "Full-Stack Developer & Web3 Builder"
-    org         = "Mancing DAO"
-    building    = "Autonomous AI agents & onchain applications"
-    published   = "web3-agent-kit on PyPI — 986 tests, 25+ modules, 7+ chains"
-    languages   = ["Python", "TypeScript", "Rust", "Go", "Solidity"]
-    web3        = ["EVM", "Solana", "Base", "Celo", "Farcaster"]
-    security    = ["Smart Contract Auditing", "Bug Bounty", "DeFi Security"]
-    current     = "Open to opportunities — let's build something onchain"
+    role      = "Full-Stack Developer & Web3 Builder"
+    org       = "Mancing DAO"
+    building  = "Autonomous AI agents & onchain applications"
+    published = "web3-agent-kit on PyPI"
+    testing   = "986 tests · 25+ modules · 7+ chains"
+    languages = ["Python", "TypeScript", "Rust", "Go", "Solidity"]
+    web3      = ["EVM", "Solana", "Base", "Celo", "Farcaster"]
+    security  = ["Smart Contract Auditing", "Bug Bounty", "DeFi Security"]
+    status    = "Open to opportunities 🚀"
 ```
 
 ---

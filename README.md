@@ -61,7 +61,7 @@
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulsreall&theme=tokyonight&background=0d1117&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ulsreall&theme=tokyonight&background=0d1117&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" />
 
 <br/><br/>
 

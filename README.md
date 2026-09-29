@@ -18,7 +18,7 @@
 🎯 Role      : Full-Stack Developer · Web3 Builder · Security Researcher
 🏢 Org       : Mancing DAO
 🛠️ Building  : Autonomous AI agents & onchain DApps
-📦 Published : web3-agent-kit (PyPI) — 986 tests, 25+ modules, 7+ chains
+📦 Published : web3-agent-kit (PyPI) — 1,971 tests, 25 modules, 9 chains
 💡 Languages : Python, TypeScript, Rust, Go, Solidity
 🔗 Web3      : EVM, Solana, Base, Celo, Farcaster
 🔍 Security  : Smart Contract Auditing · Bug Bounty · DeFi Security

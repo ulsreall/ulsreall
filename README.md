@@ -83,10 +83,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| [**WEB3-AGENT-KIT**](https://github.com/ulsreall/web3-agent-kit) | [**QIE PAY**](https://github.com/ulsreall/qie-pay) | [**BASE STREAK ARENA**](https://github.com/ulsreall/base-streak-arena) |
-| 🐍 Autonomous Web3 AI Agent Framework ⭐ | 💳 Decentralized Payment Gateway on QIE | 🎮 Farcaster Mini App on Base |
-| [**AYSHATA GUARD**](https://ayshataguard.web.id) | [**PORTFOLIO**](https://www.khasbim.web.id) | [**COMING SOON**](#) |
-| 🛡️ Web3 Wallet Safety Platform | 🌐 Personal Portfolio Site | 🚧 New Project in Progress |
+| [**WEB3-AGENT-KIT**](https://github.com/ulsreall/web3-agent-kit) | [**QIE PAY**](https://github.com/ulsreall/qie-pay) | [**PORTFOLIO**](https://www.khasbim.web.id) |
+| 🐍 Autonomous Web3 AI Agent Framework ⭐ | 💳 Decentralized Payment Gateway on QIE | 🌐 Personal Portfolio Site |
 
 </div>
 

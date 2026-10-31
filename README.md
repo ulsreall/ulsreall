@@ -82,7 +82,7 @@
 <div align="center">
 
 | | | |
-|:---:|:---:|
+|:---:|:---:|:---:|
 | [**WEB3-AGENT-KIT**](https://github.com/ulsreall/web3-agent-kit) | [**QIE PAY**](https://github.com/ulsreall/qie-pay) |
 | 🐍 Autonomous Web3 AI Agent Framework ⭐ | 💳 Decentralized Payment Gateway on QIE |
 

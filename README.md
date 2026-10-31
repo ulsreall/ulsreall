@@ -83,8 +83,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| [**WEB3-AGENT-KIT**](https://github.com/ulsreall/web3-agent-kit) | [**QIE PAY**](https://github.com/ulsreall/qie-pay) | [**PORTFOLIO**](https://www.khasbim.web.id) |
-| 🐍 Autonomous Web3 AI Agent Framework ⭐ | 💳 Decentralized Payment Gateway on QIE | 🌐 Personal Portfolio Site |
+| [**WEB3-AGENT-KIT**](https://github.com/ulsreall/web3-agent-kit) | [**QIE PAY**](https://github.com/ulsreall/qie-pay) |
+| 🐍 Autonomous Web3 AI Agent Framework ⭐ | 💳 Decentralized Payment Gateway on QIE |
 
 </div>
 
